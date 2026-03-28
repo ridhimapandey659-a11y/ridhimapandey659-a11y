@@ -16,8 +16,6 @@
 ## 📂 My Projects
 
 🔗 Python Programs: https://github.com/ridhimapandey659-a11y/python-programs  
-🔗 SQL Programs: (add link here)  
-🔗 C Programs: (add link here)  
 
 ---
 
