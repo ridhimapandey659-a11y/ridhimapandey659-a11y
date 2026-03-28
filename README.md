@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ridhima 👋
 
-<!--
-**ridhimapandey659-a11y/ridhimapandey659-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student  
+💻 Learning Programming  
+🌱 Beginner in Tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python 🐍  
+- SQL 🗄️  
+- C Programming 💻  
+
+---
+
+## 📂 My Projects
+
+🔗 Python Programs: https://github.com/ridhimapandey659-a11y/python-programs  
+🔗 SQL Programs: (add link here)  
+🔗 C Programs: (add link here)  
+
+---
+
+## 🌟 About Me
+I am a beginner in programming and currently learning different technologies like Python, SQL, and C.  
+I enjoy solving problems and building small projects to improve my skills.
+
+---
+
+⭐ Thank you for visiting my profile!
